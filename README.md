@@ -8,6 +8,7 @@
 
 > **An 11-page Power BI Owner's Intelligence Dashboard for a Kuwait-based restaurant — covering operations, revenue, profitability, customer behavior, delivery performance, kitchen efficiency, and food wastage, built to turn raw restaurant data into actionable business decisions.**
 
+## 📊 Live Dashboard 🔗 [View Live Dashboard](https://app.powerbi.com/links/PtixkxZs4k?ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f&pbi_source=linkShare) 
 ---
 
 ## 🎯 Business Objectives
